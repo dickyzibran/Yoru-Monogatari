@@ -5,8 +5,12 @@
 The application is fully responsive, providing an immersive reading experience on both mobile and desktop devices through a dual-pane layout design.
 
 Created as part of an academic assignment.
+<a href="https://dickyzibran.github.io/Yoru-Monogatari/" target="_blank">
+  Click here to view
+</a>
 
-<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/e0c08b5f-2b6f-447f-9d6d-56dc1148c7ca" />
+<img width="1452" height="907" alt="image" src="https://github.com/user-attachments/assets/4b833121-6d9a-4f7b-9ed7-9404cb469799" />
+
 
 ---
 
